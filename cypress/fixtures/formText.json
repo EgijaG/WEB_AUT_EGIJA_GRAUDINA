@@ -1,0 +1,14 @@
+{
+  "name": "Amber",
+  "lastName": "Turd",
+  "email": "amber@turd.io",
+  "gender": "Other",
+  "mobile": 2123456789,
+  "subject": "Economics",
+  "hobbies": "Music",
+  "currentAdd": "Johhny Depps penthouse because cannot afford her own",
+  "state": "NCR",
+  "city": "Delhi",
+  "imgPath":"cypress/files/img.jpg"
+  
+}

@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_egija_graudina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgijaG/WEB_AUT_EGIJA_GRAUDINA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgijaG/WEB_AUT_EGIJA_GRAUDINA/issues"
+  },
+  "homepage": "https://github.com/EgijaG/WEB_AUT_EGIJA_GRAUDINA#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
