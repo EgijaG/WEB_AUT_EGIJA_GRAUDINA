@@ -1,8 +1,6 @@
-import BasePage from "../pageObjects/BasePage";
 import FormPage from "../pageObjects/FormPage";
-import formText from "../fixtures/formText.json";
 
-// Final task in Automation texting
+// Final task in Automation testing
 context("Elements scenarions", () => {
   context("Automation practice form", () => {
     it("Form fillings", () => {
